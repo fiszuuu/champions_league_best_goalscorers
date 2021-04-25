@@ -1,3 +1,3 @@
-# champions_league_best_goalscorers
-Small project just after getting knew objective programing 
+# Best champions leauge goalscores
+Small project just after getting knew objective programing\n
 For fun :)
