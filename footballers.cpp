@@ -28,7 +28,6 @@ void Player::read (istream&is)
 {
     string s, trash;
     is >> index;
-    //if (s != "\n")is.setstate(ios::failbit);
     is >> name >> s;
     if (s != name) 
     {
@@ -38,12 +37,6 @@ void Player::read (istream&is)
     getline (is, trash);
     getline (is, position);
     getline (is, club, '\t');
-    /*is >> s;
-    if (s!="dla")
-    {
-        is.setstate(ios::failbit);
-        getline (is, s, '\t');
-    }*/
     getline (is, country);
     is >> s;
     if (s == "-")
@@ -51,10 +44,6 @@ void Player::read (istream&is)
     else 
         age = stoi(s);
     is >> seasons_played >> matches_played >> goals_scored;
-    /*string position_tmp;
-    is >> index >> name >> surname >> name >> surname >> position >> position_tmp >> club >> country >> age >> seasons_played >> matches_played >> goals_scored;
-    position += position_tmp;*/
-
 }
 void Player::write (ostream&os)
 {
@@ -68,6 +57,8 @@ void Player::write (ostream&os)
     os << matches_played << '\t';
     os << goals_scored;
 }
+
+
 class PlayerList
 {
     vector <Player> footballers;
@@ -81,7 +72,6 @@ class PlayerList
         Player oldest_one();   
         string index_to_name(int ind); 
 };
-
 void PlayerList::write(ostream&os)
 {
     for (int i=0; i<footballers.size(); ++i)
@@ -102,14 +92,15 @@ void PlayerList::read(istream&is)
             break;
     }
 }
-
 string PlayerList::index_to_name(int ind)
 {
+    --ind;
     for (int i=0; i < footballers.size(); ++i)
     {
         if (ind == i)
             return footballers[i].name;
     }
+    return "-1"; 
 }
 Player PlayerList::oldest_one()
 {
@@ -121,6 +112,9 @@ Player PlayerList::oldest_one()
     }
     return p;
 }
+
+//TESTING
+
 void test_read_write(){
     ifstream is("champions_league_best_goalscorers/data.txt");
     if(!is){
@@ -168,6 +162,7 @@ int main ()
     PlayerList players;
     players.read(file);
     Player p = players.oldest_one();
-    cout << p.name;
+    cout << p.name <<endl;
+    cout<<players.index_to_name(13)<<endl;
     return 0;
 }
