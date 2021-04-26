@@ -1,0 +1,245 @@
+1	
+Cristiano Ronaldo	Cristiano Ronaldo
+Lewy napastnik
+dla 3 klubów	Portugalia
+36	18	176	134
+2	
+Lionel Messi	Lionel Messi
+Prawy napastnik
+FC Barcelona	Argentyna
+33	17	149	120
+3	
+Robert Lewandowski	Robert Lewandowski
+Środkowy napastnik
+dla 2 klubów	Polska
+32	10	96	73
+4	
+Raúl	Raúl
+Cofnięty napastnik
+dla 2 klubów	Hiszpania
+43	15	142	71
+5	
+Karim Benzema	Karim Benzema
+Środkowy napastnik
+dla 2 klubów	Francja
+33	17	128	70
+6	
+Ruud van Nistelrooy	Ruud van Nistelrooy
+Środkowy napastnik
+dla 3 klubów	Holandia
+44	11	73	56
+7	
+Thierry Henry	Thierry Henry
+Środkowy napastnik
+dla 3 klubów	Francja
+43	13	112	50
+8	
+Zlatan Ibrahimovic	Zlatan Ibrahimovic
+Środkowy napastnik
+dla 6 klubów	Szwecja
+39	15	120	48
+10	
+Thomas Müller	Thomas Müller
+Cofnięty napastnik
+Bayern Monachium	Niemcy
+31	13	124	48
+11	
+Andriy Shevchenko	Andriy Shevchenko
+Środkowy napastnik
+dla 3 klubów	Ukraina
+44	12	100	48
+12	
+Filippo Inzaghi	Filippo Inzaghi
+Środkowy napastnik
+dla 2 klubów	Włochy
+47	11	81	46
+13	
+Eusébio	Eusébio
+Środkowy napastnik
+Benfica Lizbona	Portugalia
+-	11	65	46
+14	
+Didier Drogba	Didier Drogba
+Środkowy napastnik
+dla 3 klubów	Wybrzeże Kości Słoniowej
+43	12	92	44
+15	
+Alessandro Del Piero	Alessandro Del Piero
+Cofnięty napastnik
+Juventus Turyn	Włochy
+46	12	89	42
+16	
+Neymar	Neymar
+Lewy napastnik
+dla 2 klubów	Brazylia
+29	8	67	41
+17	
+Sergio Agüero	Sergio Agüero
+Środkowy napastnik
+dla 2 klubów	Argentyna
+32	12	76	41
+18	
+Ferenc Puskás	Ferenc Puskás
+Środkowy napastnik
+dla 2 klubów	Węgry
+-	9	41	36
+19	
+Edinson Cavani	Edinson Cavani
+Środkowy napastnik
+dla 2 klubów	Urugwaj
+34	9	66	35
+20	
+Gerd Müller	Gerd Müller
+Środkowy napastnik
+Bayern Monachium	Niemcy
+75	6	35	34
+21	
+Fernando Morientes	Fernando Morientes
+Środkowy napastnik
+dla 4 klubów	Hiszpania
+45	12	93	33
+22	
+Arjen Robben	Arjen Robben
+Prawy napastnik
+dla 4 klubów	Holandia
+37	17	110	31
+23	
+Kaká	Kaká
+Ofensywny pomocnik
+dla 2 klubów	Brazylia
+39	10	86	30
+24	
+Wayne Rooney	Wayne Rooney
+Środkowy napastnik
+Manchester United	Anglia
+35	11	85	30
+25	
+Samuel Eto'o	Samuel Eto'o
+Środkowy napastnik
+dla 4 klubów	Kamerun
+40	10	78	30
+26	
+Paco Gento	Paco Gento
+Lewy napastnik
+Real Madryt	Hiszpania
+87	15	89	30
+27	
+Patrick Kluivert	Patrick Kluivert
+Środkowy napastnik
+dla 2 klubów	Holandia
+44	8	71	29
+28	
+David Trézéguet	David Trézéguet
+Środkowy napastnik
+dla 2 klubów	Francja
+43	9	58	29
+29	
+Roy Makaay	Roy Makaay
+Środkowy napastnik
+dla 2 klubów	Holandia
+46	7	61	29
+30	
+Ryan Giggs	Ryan Giggs
+Lewy pomocnik
+Manchester United	Walia
+47	20	145	28
+31	
+Mohamed Salah	Mohamed Salah
+Prawy napastnik
+dla 3 klubów	Egipt
+28	7	58	28
+32	
+Jean-Pierre Papin	Jean-Pierre Papin
+Środkowy napastnik
+dla 3 klubów	Francja
+57	6	37	28
+33	
+Kylian Mbappé	Kylian Mbappé
+Środkowy napastnik
+dla 2 klubów	Francja
+22	5	44	27
+34	
+Rivaldo	Rivaldo
+Ofensywny pomocnik
+dla 3 klubów	Brazylia
+49	10	73	27
+35	
+Luis Suárez	Luis Suárez
+Środkowy napastnik
+dla 2 klubów	Urugwaj
+34	8	66	26
+36	
+Mario Gómez	Mario Gómez
+Środkowy napastnik
+dla 2 klubów	Niemcy
+35	6	44	26
+37	
+Robin van Persie	Robin van Persie
+Środkowy napastnik
+dla 2 klubów	Holandia
+37	11	59	25
+38	
+Antoine Griezmann	Antoine Griezmann
+Cofnięty napastnik
+dla 2 klubów	Francja
+30	8	70	25
+39	
+Hernán Crespo	Hernán Crespo
+Środkowy napastnik
+dla 5 klubów	Argentyna
+45	9	65	25
+40	
+Jardel	Jardel
+Środkowy napastnik
+dla 2 klubów	Brazylia
+47	5	46	25
+41	
+Luís Figo	Luís Figo
+Prawy napastnik
+dla 3 klubów	Portugalia
+48	12	103	24
+42	
+Giovane Elber	Giovane Elber
+Środkowy napastnik
+dla 2 klubów	Brazylia
+48	7	69	24
+43	
+Gonzalo Higuaín	Gonzalo Higuaín
+Środkowy napastnik
+dla 3 klubów	Argentyna
+33	11	83	24
+44	
+Paul Scholes	Paul Scholes
+Środkowy pomocnik
+Manchester United	Anglia
+46	17	124	24
+45	
+Marco Simone	Marco Simone
+Środkowy napastnik
+dla 3 klubów	Włochy
+52	8	47	24
+46	
+José Augusto	José Augusto
+Prawy napastnik
+Benfica Lizbona	Portugalia
+84	9	56	24
+47	
+José Altafini	José Altafini
+Środkowy napastnik
+dla 2 klubów	Włochy
+82	6	28	24
+48	
+Frank Lampard	Frank Lampard
+Środkowy pomocnik
+Chelsea FC	Anglia
+42	12	105	23
+49	
+Jari Litmanen	Jari Litmanen
+Ofensywny pomocnik
+dla 2 klubów	Finlandia
+50	10	59	23
+50	
+Ángel Di María	Ángel Di María
+Prawy napastnik
+dla 2 klubów	Argentyna
+33	11	92	22
