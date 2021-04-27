@@ -4,12 +4,6 @@
 
 using namespace std;
 
-#include <iostream>
-#include <fstream>
-#include <vector>
-
-using namespace std;
-
 class Player{
     public:
         int goals_scored;
@@ -22,14 +16,14 @@ class Player{
         string nation;
         string position;
         //metods
-        float goals_in_match()const;
+        float goals_in_match();
         void read(istream&is);
         void write(ostream&os);
         bool is_dead()const;
 };
-float Player::goals_in_match()const
+float Player::goals_in_match()
 {
-    return goals_scored/matches_played;
+    return (float)goals_scored/matches_played;
 }
 void Player::read (istream&is)
 {
@@ -68,8 +62,8 @@ bool Player::is_dead()const
 
 class PlayerList
 {
-    vector <Player> footballers;
     public:
+        vector <Player> footballers;
         void read(istream&is);
         void write(ostream&os);
         void add(const Player&p);

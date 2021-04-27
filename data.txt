@@ -34,6 +34,11 @@ Thierry Henry	Thierry Henry
 dla 3 klubów	Francja
 43	13	112	50
 8	
+Alfredo di Stéfano	Alfredo di Stéfano
+Cofnięty napastnik
+Real Madryt	Hiszpania
+-	9	58	49
+9	
 Zlatan Ibrahimovic	Zlatan Ibrahimovic
 Środkowy napastnik
 dla 6 klubów	Szwecja
